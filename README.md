@@ -42,7 +42,7 @@ Mutualistic subnetworks that passed the size threshold show different NODF value
 - **Animalia–Bacteria:** NODF = 45.9
 
 These matrices and their isoclines are shown in Figure 3.  
-`![Figure 3 - Mutualistic nestedness](Figures/Fig3.png)`
+![Figure 3 - Mutualistic nestedness](Figures/Fig3.png)
 
 ---
 
@@ -54,7 +54,7 @@ Parasitic subnetworks that met the threshold present larger variability in NODF:
 - **Plantae–Protozoa:** NODF = 63.5
 
 See the corresponding interaction matrices in Figure 4.  
-`![Figure 4 - Parasitic nestedness](Figures/Fig4.png)`
+![Figure 4 - Parasitic nestedness](Figures/Fig4.png)
 
 ---
 
@@ -67,7 +67,7 @@ The most characteristic interaction types by subnetwork (deviations from the ove
 - **Non-native–Non-native:** HEMATOFAGIA, HERBIVORÍA, PARASITISMO
 
 Relative percentages by interaction type are plotted in Figure 5.  
-`![Figure 5 - Interaction types by subnetwork](Figures/Fig5.png)`
+![Figure 5 - Interaction types by subnetwork](Figures/Fig5.png)
 
 ---
 
@@ -80,7 +80,7 @@ Degree distributions were fit with truncated power laws (excluding single-occurr
 - γₙₒₙ₋ₙₒₙ (Non-native–Non-native) = **1.98**
 
 The distributions and fits are shown in Figure 6.  
-`![Figure 6 - Degree distributions](Figures/Fig6.png)`
+![Figure 6 - Degree distributions](Figures/Fig6.png)
 
 ---
 
@@ -93,7 +93,7 @@ Comparing distributions of degree, betweenness, PageRank, clustering, closeness,
 - **Betweenness** is slightly higher on average for non-native species.
 
 Distributions are displayed in Figure 7.  
-`![Figure 7 - Centrality distributions](Figures/Fig7.png)`
+![Figure 7 - Centrality distributions](Figures/Fig7.png)
 
 ---
 
@@ -105,7 +105,7 @@ The 25 species with largest out-degree are exclusively from **Animalia**, includ
 - **Colibri coruscans** (native): 117 interactions
 
 Full bar plot appears as Figure 8.  
-`![Figure 8 - Top k_out species](Figures/Fig8.png)`
+![Figure 8 - Top k_out species](Figures/Fig8.png)
 
 ---
 
@@ -120,10 +120,10 @@ Observed responses (targeted removal) compared to random-removal baseline:
 - **Robustness (composite metric):** Falls from ~0.3 to ~0.1 by ~85% nodes remaining, then exhibits an abrupt collapse to near zero well before the network fully disconnects.
 
 These dynamics contrast with the smooth, near-linear decay observed under random removals. Time-series plots and comparison bands are shown in Figure 9.  
-`![Figure 9 - Evolution under removal](Figures/Fig9.png)`
+![Figure 9 - Evolution under removal](Figures/Fig9.png)
 
 ---
 
-*Results summarized directly from the project report.* :contentReference[oaicite:0]{index=0}
+*Results summarized directly from the project report.*
 
 
